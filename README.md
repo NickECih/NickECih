@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickECih (nick)
-- 👀 I’m interested in information/cyber security
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on various school & personal projects
+- 👀 I’m interested in it all information/cyber security
+- 🌱 Python projects on the side
+- 💞️ Possible project collabs...?
 - 📫 How to reach me admin@nickecih.com
 
 <!---
