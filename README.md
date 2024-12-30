@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickECih (nick)
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in it all information/cyber security
 - 🌱 Python projects on the side
 - 💞️ Possible project collabs...?
