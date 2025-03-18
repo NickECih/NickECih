@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NickECih (nick)
-- 👀 I love cybersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on various school & personal projects
-- 📫 How to reach me admin@nickecih.com
+
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in it all information/cyber security
+- 🌱 Python projects on the side
+- 💞️ Possible project collabs...?
 
 <!---
 NickECih/NickECih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
